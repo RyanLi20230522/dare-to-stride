@@ -1,0 +1,9 @@
+@import './variables.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    letter-spacing: 0.1em;
+}
